@@ -1,0 +1,11 @@
+c:\users\webmaster\documents\visual studio 2015\Projects\FileZillaServerAutoban\FileZillaServerAutoban\bin\Debug\FileZillaServerAutoban.exe.config
+c:\users\webmaster\documents\visual studio 2015\Projects\FileZillaServerAutoban\FileZillaServerAutoban\bin\Debug\FileZillaServerAutoban.exe
+c:\users\webmaster\documents\visual studio 2015\Projects\FileZillaServerAutoban\FileZillaServerAutoban\bin\Debug\FileZillaServerAutoban.pdb
+c:\users\webmaster\documents\visual studio 2015\Projects\FileZillaServerAutoban\FileZillaServerAutoban\obj\Debug\FileZillaServerAutoban.csprojResolveAssemblyReference.cache
+c:\users\webmaster\documents\visual studio 2015\Projects\FileZillaServerAutoban\FileZillaServerAutoban\obj\Debug\FileZillaServerAutoban.exe
+c:\users\webmaster\documents\visual studio 2015\Projects\FileZillaServerAutoban\FileZillaServerAutoban\obj\Debug\FileZillaServerAutoban.pdb
+H:\GOOGLE DRIVE - DROPBOX\DRIVE\desarrollos propios\desarrollos propios\FileZillaServerAutoban\FileZillaServerAutoban\bin\Debug\FileZillaServerAutoban.exe.config
+H:\GOOGLE DRIVE - DROPBOX\DRIVE\desarrollos propios\desarrollos propios\FileZillaServerAutoban\FileZillaServerAutoban\obj\Debug\FileZillaServerAutoban.exe
+H:\GOOGLE DRIVE - DROPBOX\DRIVE\desarrollos propios\desarrollos propios\FileZillaServerAutoban\FileZillaServerAutoban\obj\Debug\FileZillaServerAutoban.pdb
+H:\GOOGLE DRIVE - DROPBOX\DRIVE\desarrollos propios\desarrollos propios\FileZillaServerAutoban\FileZillaServerAutoban\bin\Debug\FileZillaServerAutoban.exe
+H:\GOOGLE DRIVE - DROPBOX\DRIVE\desarrollos propios\desarrollos propios\FileZillaServerAutoban\FileZillaServerAutoban\bin\Debug\FileZillaServerAutoban.pdb
